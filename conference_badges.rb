@@ -2,4 +2,5 @@
 
 def badge_maker(speaker)
   
+  
 end
